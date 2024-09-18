@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CinyExG1SiM=",
+  "dgSpecHash": "YqayLGHPOt8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\EmpresaAPI.csproj",
+  "projectFilePath": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\EmpresaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeanc\\.nuget\\packages\\microsoft.aspnet.webapi.client\\6.0.0\\microsoft.aspnet.webapi.client.6.0.0.nupkg.sha512",
     "C:\\Users\\jeanc\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.3.0\\microsoft.aspnet.webapi.core.5.3.0.nupkg.sha512",

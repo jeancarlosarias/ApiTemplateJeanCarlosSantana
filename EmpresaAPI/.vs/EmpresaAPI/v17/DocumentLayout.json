@@ -1,49 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\loyola\\prog.ii\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\ruta backend\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\prueba\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|solutionrelative:empresaapi\\prueba\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\ruta backend\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|solutionrelative:empresaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\loyola\\prog.ii\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\ruta backend\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|solutionrelative:empresaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\loyola\\prog.ii\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\ruta backend\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|solutionrelative:empresaapi\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\loyola\\prog.ii\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\ruta backend\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|solutionrelative:empresaapi\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\loyola\\prog.ii\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\models\\tablestbl\\phototbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\ruta backend\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\models\\tablestbl\\phototbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|solutionrelative:empresaapi\\models\\tablestbl\\phototbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\loyola\\prog.ii\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\ruta backend\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|solutionrelative:empresaapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\loyola\\prog.ii\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\ruta backend\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|solutionrelative:empresaapi\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\loyola\\prog.ii\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\models\\tablestbl\\clienttbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\ruta backend\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\models\\tablestbl\\clienttbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|solutionrelative:empresaapi\\models\\tablestbl\\clienttbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\loyola\\prog.ii\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\models\\tablestbl\\billtbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\ruta backend\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\models\\tablestbl\\billtbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|solutionrelative:empresaapi\\models\\tablestbl\\billtbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\loyola\\prog.ii\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\models\\tablestbl\\producttbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\ruta backend\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\models\\tablestbl\\producttbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|solutionrelative:empresaapi\\models\\tablestbl\\producttbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\loyola\\prog.ii\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\models\\context\\dbconnectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|c:\\users\\jeanc\\downloads\\ruta backend\\apitemplatejeancarlossantana\\empresaapi\\empresaapi\\models\\context\\dbconnectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A225F10-2510-47DE-8173-EC71EBCADE25}|EmpresaAPI\\EmpresaAPI.csproj|solutionrelative:empresaapi\\models\\context\\dbconnectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,10 +74,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
@@ -81,25 +81,45 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PhotoController.cs",
-              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Controllers\\PhotoController.cs",
-              "RelativeDocumentMoniker": "EmpresaAPI\\Controllers\\PhotoController.cs",
-              "ToolTip": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Controllers\\PhotoController.cs",
-              "RelativeToolTip": "EmpresaAPI\\Controllers\\PhotoController.cs",
-              "ViewState": "AQIAAKcAAAAAAAAAAAAowL0AAAA3AAAA",
+              "DocumentIndex": 0,
+              "Title": "Prueba.cs",
+              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Prueba\\Prueba.cs",
+              "RelativeDocumentMoniker": "EmpresaAPI\\Prueba\\Prueba.cs",
+              "ToolTip": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Prueba\\Prueba.cs",
+              "RelativeToolTip": "EmpresaAPI\\Prueba\\Prueba.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T22:55:58.74Z",
+              "WhenOpened": "2024-09-18T02:37:03.636Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "PhotoController.cs",
+              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Controllers\\PhotoController.cs",
+              "RelativeDocumentMoniker": "EmpresaAPI\\Controllers\\PhotoController.cs",
+              "ToolTip": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Controllers\\PhotoController.cs",
+              "RelativeToolTip": "EmpresaAPI\\Controllers\\PhotoController.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAowL0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T22:55:58.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ClientController.cs",
-              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Controllers\\ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Controllers\\ClientController.cs",
               "RelativeDocumentMoniker": "EmpresaAPI\\Controllers\\ClientController.cs",
-              "ToolTip": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Controllers\\ClientController.cs",
               "RelativeToolTip": "EmpresaAPI\\Controllers\\ClientController.cs",
               "ViewState": "AQIAANQAAAAAAAAAAAAswL0AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,24 +127,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BillController.cs",
-              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Controllers\\BillController.cs",
+              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Controllers\\BillController.cs",
               "RelativeDocumentMoniker": "EmpresaAPI\\Controllers\\BillController.cs",
-              "ToolTip": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Controllers\\BillController.cs",
+              "ToolTip": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Controllers\\BillController.cs",
               "RelativeToolTip": "EmpresaAPI\\Controllers\\BillController.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAwLcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T22:55:58.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T22:55:58.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "EmpresaAPI\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Controllers\\ProductController.cs",
               "RelativeToolTip": "EmpresaAPI\\Controllers\\ProductController.cs",
               "ViewState": "AQIAANgAAAAAAAAAAAAQwP4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -132,11 +151,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Program.cs",
               "RelativeDocumentMoniker": "EmpresaAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Program.cs",
               "RelativeToolTip": "EmpresaAPI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -145,24 +164,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\appsettings.json",
               "RelativeDocumentMoniker": "EmpresaAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\appsettings.json",
               "RelativeToolTip": "EmpresaAPI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-14T22:55:58.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T22:55:58.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "DbConnectionContext.cs",
-              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Models\\Context\\DbConnectionContext.cs",
+              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Models\\Context\\DbConnectionContext.cs",
               "RelativeDocumentMoniker": "EmpresaAPI\\Models\\Context\\DbConnectionContext.cs",
-              "ToolTip": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Models\\Context\\DbConnectionContext.cs",
+              "ToolTip": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Models\\Context\\DbConnectionContext.cs",
               "RelativeToolTip": "EmpresaAPI\\Models\\Context\\DbConnectionContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -170,11 +188,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PhotoTbl.cs",
-              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Models\\TablesTbl\\PhotoTbl.cs",
+              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Models\\TablesTbl\\PhotoTbl.cs",
               "RelativeDocumentMoniker": "EmpresaAPI\\Models\\TablesTbl\\PhotoTbl.cs",
-              "ToolTip": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Models\\TablesTbl\\PhotoTbl.cs",
+              "ToolTip": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Models\\TablesTbl\\PhotoTbl.cs",
               "RelativeToolTip": "EmpresaAPI\\Models\\TablesTbl\\PhotoTbl.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -182,11 +200,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ClientTbl.cs",
-              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Models\\TablesTbl\\ClientTbl.cs",
+              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Models\\TablesTbl\\ClientTbl.cs",
               "RelativeDocumentMoniker": "EmpresaAPI\\Models\\TablesTbl\\ClientTbl.cs",
-              "ToolTip": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Models\\TablesTbl\\ClientTbl.cs",
+              "ToolTip": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Models\\TablesTbl\\ClientTbl.cs",
               "RelativeToolTip": "EmpresaAPI\\Models\\TablesTbl\\ClientTbl.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -194,11 +212,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BillTbl.cs",
-              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Models\\TablesTbl\\BillTbl.cs",
+              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Models\\TablesTbl\\BillTbl.cs",
               "RelativeDocumentMoniker": "EmpresaAPI\\Models\\TablesTbl\\BillTbl.cs",
-              "ToolTip": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Models\\TablesTbl\\BillTbl.cs",
+              "ToolTip": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Models\\TablesTbl\\BillTbl.cs",
               "RelativeToolTip": "EmpresaAPI\\Models\\TablesTbl\\BillTbl.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -206,11 +224,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ProductTbl.cs",
-              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Models\\TablesTbl\\ProductTbl.cs",
+              "DocumentMoniker": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Models\\TablesTbl\\ProductTbl.cs",
               "RelativeDocumentMoniker": "EmpresaAPI\\Models\\TablesTbl\\ProductTbl.cs",
-              "ToolTip": "C:\\Users\\jeanc\\Downloads\\LOYOLA\\PROG.II\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Models\\TablesTbl\\ProductTbl.cs",
+              "ToolTip": "C:\\Users\\jeanc\\Downloads\\RUTA BACKEND\\ApiTemplateJeanCarlosSantana\\EmpresaAPI\\EmpresaAPI\\Models\\TablesTbl\\ProductTbl.cs",
               "RelativeToolTip": "EmpresaAPI\\Models\\TablesTbl\\ProductTbl.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
